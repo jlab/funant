@@ -1,0 +1,2 @@
+# funant
+fungal annotation tool
